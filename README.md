@@ -7,7 +7,7 @@ Table of Contents
 =================
    * [Introduction](#Introduction)
    * [Advantages](#Advantages)
-   * [Supported Functionalities/Better Over JDBC:](#Supported Functionalities/Better Over JDBC:)
+   * [Supported Functionalities Better Over JDBC](#Supported Functionalities/Better Over JDBC)
    * [Hibernate Overcomes:](#Hibernate Overcomes:)
    * [Techs supported by Hibernate:](#Techs supported by Hibernate:)
    
