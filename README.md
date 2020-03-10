@@ -1,7 +1,9 @@
+<p align="center">
 # Hibernate
+</p>
 
 <p align="center">
-  <img width="600" height="200" src="Images/Hibernate.png">
+  <img width="500" height="120" src="Images/Hibernate.png">
 </p>
 
 
