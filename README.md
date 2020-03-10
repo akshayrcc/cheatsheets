@@ -1,6 +1,6 @@
-<p align="center">
+<center># Hibernate</center>
+# <center>Hibernate</center>
 # Hibernate
-</p>
 
 <p align="center">
   <img width="500" height="120" src="Images/Hibernate.png">
