@@ -1,13 +1,10 @@
-# <p align="center">Hibernate</p>
-
+<!--# <p align="center">Hibernate</p>-->
 <p align="center">
   <img width="500" height="120" src="Images/Hibernate.png">
 </p>
 
-
 Table of Contents
 =================
-
    * [Introduction](#Introduction)
    * [Advantages](#Advantages)
    * [Supported Functionalities/Better Over JDBC:](#Supported Functionalities/Better Over JDBC:)
@@ -54,4 +51,4 @@ Techs supported by Hibernate:
 3. Eclipse Plugins.
 4. X-Doclets.
 
-<p align="center"><img width="300" height="300" src="Images/hbm_jpa.jpg"></p>
+<p align="center"><img width="450" height="450" src="Images/hbm_jpa.jpg"></p>
