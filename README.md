@@ -7,9 +7,9 @@ Table of Contents
 =================
    * [Introduction](#Introduction)
    * [Advantages](#Advantages)
-   * [Supported Functionalities Better Over JDBC](#Supported-Functionalities/Better-Over-JDBC)
-   * [Hibernate Overcomes:](#Hibernate-Overcomes:)
-   * [Techs supported by Hibernate:](#Techs-supported-by-Hibernate:)
+   * [Supported Functionalities or What Better Over JDBC](#Supported-Functionalities-or-What-Better-Over-JDBC)
+   * [Hibernate Overcomes:](#Hibernate-Overcomes)
+   * [Techs supported by Hibernate:](#Techs-supported-by-Hibernate)
    
 Introduction
 ============
@@ -27,8 +27,8 @@ Advantages
 4. Provides facilities to create a table.
 5. Provides Query Statistics and database status.
 
-Supported Functionalities/Better Over JDBC:
--------------------------------------------
+Supported Functionalities or What Better Over JDBC
+--------------------------------------------------
 1. Hibernate eliminates a lot of boiler plate code.
 2. Support inheritance, association and collections.
 3. Uses HQL which is Object Oriented and close to Java.
@@ -37,14 +37,14 @@ Supported Functionalities/Better Over JDBC:
 6. Supports auto DDL opertations, auto primary key generation support.
 7. Supports cache memory.
 
-Hibernate Overcomes:
+Hibernate Overcomes
 --------------------
 1. Database dependecy faced in the JDBC.
 2. Changing of DB cost a lot in JDBC.
 3. Code Portability is eaisily handled.
 4. It overcomes exception handling.
 
-Techs supported by Hibernate:
+Techs supported by Hibernate
 -----------------------------
 1. Java J2EE.
 2. Maven.
