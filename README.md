@@ -11,7 +11,7 @@ Table of Contents
    * [Hibernate Overcomes:](#Hibernate-Overcomes)
    * [Techs supported by Hibernate:](#Techs-supported-by-Hibernate)
    * [Hibernate Working:](#Hibernate-Working)
-   * [To configure Hibernate:](#To-configure-Hibernate:)
+   * [To configure Hibernate:](#To-configure-Hibernate)
    
    
 Introduction
@@ -57,8 +57,8 @@ Techs supported by Hibernate
 <p align="center"><img width="450" height="450" src="Images/hbm_jpa.jpg"></p>
 
 Hibernate Working
-=================
-In hibernate, Association mappings is a key feature. 
+-----------------
+Association mappings is a key feature in Hibernate.
 Hibernate supports same associations as relational database model.
 viz, One-to-One, Many-to-One, Many-to-Many.
 Hibernate Config File: It has database type and class details.
@@ -68,29 +68,29 @@ Hibernate Config File: It has database type and class details.
 2. Session.
 3. Transaction.
 
-<b>Session in Hibernate:</b>
+<b>Session in Hibernate:</b></br>
 Its a medium between Java Application Layer and Hibernate.
 To get session, one can use native HQL queries.
 Session provides session object, using which we can perform CRUD operations.
 
-<b>SessionFactory:</b>
+<b>SessionFactory:</b></br>
 It's a factory class to get the session object.
 SessionFactory is heavy and thread-safe object used by all the threads in the application.
 
 getCurrentSession();
 openSession();
 
-<b>Important Annotations Used:</b>
-javax.persistence.Entity
-javax.persistence.Table
-javax.persistence.Access
-javax.persistence.Embedded Id
-javax.persistence.Column
-javax.persistence.GeneratedValue
+<b>Important Annotations Used:</b></br>
+javax.persistence.Entity;
+javax.persistence.Table;
+javax.persistence.Access;
+javax.persistence.Embedded Id;
+javax.persistence.Column;
+javax.persistence.GeneratedValue;
 
 
-To configure Hibernate:
-------------------------------
+To configure Hibernate
+----------------------
 1. Identify the POJOs that has database representation.
 2. Identify which properties of POJO to continue.
 3. Annote each of these POJOs to map Java Obj to DB column.
