@@ -115,14 +115,9 @@ To configure Hibernate
 Collections in Hibernate
 -------------------------
 (One-to-Many Mapping)
-Bag
-Lists
-Sets
-Array
-Maps
+Bag, Lists, Sets, Array, Maps.</br>
 (Other)
-Sorted Sets
-Sorted Maps
+Sorted Sets,Sorted Maps. </br>
   Hibernate injects these collections based on the type of Interface.
 
 
@@ -163,7 +158,7 @@ Important things in Hibernate
 @NamedQuery
 @NamedNativeQuery.
 
-<b>SortedCollection:</b> It sorts data in JVMs heap memory using Java's collection framework sorting methods. It's suitable for small dataset.
+<b>SortedCollection:</b> It sorts data in JVMs heap memory using Java's collection framework sorting methods. It's suitable for small dataset.</br>
 <b>OrderedCollection:</b> It sorts data using 'order by clause' in database.
 
 <b>Light Object Mapping:</b></br>
@@ -182,13 +177,13 @@ Some important methods in Hibernate
 <b>Load():</b> Throws exception when object with given id not found. It can return proxy without hitting the database unless required.
 <b>Get():</b>  Returns null when object with given id not found. It'll always goes to database.
 
-<b>save():</b> Only insert records.
+<b>save():</b> Only insert records.</br>
 <b>saveOrUpdate():</b> insert and update records.
 
 Cache in Hibernate
 ------------------
-First Level Cache: It's maintained at the Session Level.
-Second Level Cache: It's maintained at the session factory level and is shared by all sessions.
+<b>First Level Cache:</b> It's maintained at the Session Level.</br>
+<b>Second Level Cache:</b> It's maintained at the session factory level and is shared by all sessions.</br>
 
 <b>Query cache in Hibernate:</b></br>
 1. Separate cache region for Query Resultset that integrates with the Hibernate second-level cache.
