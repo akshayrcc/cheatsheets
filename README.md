@@ -3,6 +3,8 @@
   <img width="500" height="120" src="Images/Hibernate.png">
 </p>
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/akshaychaudhari/hibernate-operations/blob/master/LICENSE)
+
 Table of Contents
 -----------------
    * [Introduction](#Introduction)
