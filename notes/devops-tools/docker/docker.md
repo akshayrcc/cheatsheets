@@ -8,7 +8,7 @@
    * [Basic commands](#Basic-commands)
    * [Containers](#Containers)
    * [Images](#Images)
-   * [Exposing Ports](Exposing-Ports)
+   * [Exposing Ports](#Exposing-Ports)
    * [Container Networking](#Container-Networking)
    * [Legacy Linking](#Legacy-Linking)
    * [Volumes](#Volumes)
@@ -34,13 +34,15 @@ docker hello-world
  
 ## Containers
 
+	When we run an image we get a container.
 * To see running container:
-	`docker ps --format $FORMAT`
+	`docker ps`
 
 * To see running container with format:
 ```sh
-FORMAT=\nID\t{{.Id}}\nIMAGE\t{{Image}}
-echo $FORMAT
+	FORMAT=\nID\t{{.Id}}\nIMAGE\t{{Image}}
+	echo $FORMAT
+	docker ps --format $FORMAT
 ```
 * Check the last container:
 	`docker ps -l` 
@@ -216,8 +218,10 @@ CMD "nano" "/notes.txt"
 
 ## Docker Compose:  
 
-	 `docker compose up`
-	 
+	```
+	docker compose up
+	docker compose stop
+	```
 Docker compose is basically used to work with multiple docker containers. For eg. a MEAN stack application could have 3 containers viz. client, server and database.
 So, to set it up in one go we can use docker compose command.
 This calls the docker-compose.YML file in the root directory and runs the respective containers as per docker-compose.YML file.
