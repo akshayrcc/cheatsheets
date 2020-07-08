@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/akshaychaudhari/cheatsheets-notes/blob/master/LICENSE)
 
-## Introduction to Cheatsheets ✍🏼 
+## Introduction ✍🏼 
 
 These are some of my notes 📝 for quick reference and to begin with.
 I usually make this to improve on my skills.🗃
@@ -12,7 +12,7 @@ I usually make this to improve on my skills.🗃
 ### 📃 Languages
 
 <details>
-<summary>View cheatsheets</summary>
+<summary>View Notes</summary>
 
 - [Bash](notes/languages/bash.sh)
 - [C](notes/languages/c.c)
@@ -25,7 +25,7 @@ I usually make this to improve on my skills.🗃
 ### 🌐 Frontend
 
 <details>
-<summary>View cheatsheets</summary>
+<summary>View Notes</summary>
 
 - [HTML5](notes/frontend/html5/html5.html)
 - [Bootstrap](notes/frontend/bootstrap/bootstrap.html)
@@ -37,7 +37,7 @@ I usually make this to improve on my skills.🗃
 ### 📦 Backend
 
 <details>
-<summary>View cheatsheets</summary>
+<summary>View Notes</summary>
 
 - [SpringBoot](notes/backend/SpringBoot/SpringBoot.md)
 - [Hibernate](notes/backend/hibernate/hibernate.md)
@@ -48,7 +48,7 @@ I usually make this to improve on my skills.🗃
 ### 🗃️ Databases
 
 <details>
-<summary>View cheatsheets</summary>
+<summary>View Notes</summary>
 
 - [MySQL](notes/databases/mysql/mysql.md)
 - [Oracle](notes/databases/oracle/oracle.md)
@@ -60,13 +60,20 @@ I usually make this to improve on my skills.🗃
 ### 🛠 Devops & Tools
 
 <details>
-<summary>View cheatsheets</summary>
+<summary>View Notes</summary>
 
 - [Git](notes/devops-tools/git/git.sh)
 - [Docker](notes/devops-tools/docker/docker.md)
+- [Maven](notes/devops-tools/maven/maven.md)
 
 </details>
 
+
+
+## ------------
+
+ Work in Progress 🚧 to compose my written notes for the pending topics.
+ Feel free to fork and contribute.
 
 ## Thanks 🙌🏼 
 
