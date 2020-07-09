@@ -14,11 +14,12 @@ I usually make this to improve on my skills.🗃
 <details>
 <summary>View Notes</summary>
 
-- [Bash](notes/languages/bash.sh)
-- [C](notes/languages/c.c)
+- [Bash](notes/languages/bash/bash.md)
+- [C](notes/languages/c/c.md)
+- [C](notes/languages/c++/c++.md)
 - [Java](notes/languages/java.java)
-- [Python](notes/languages/python.py)
-- [JavaScript](notes/languages/javascript.js)
+- [Python](notes/languages/python/python.md)
+- [JavaScript](notes/languages/javascript/javascript.md)
 
 </details>
 
@@ -27,8 +28,7 @@ I usually make this to improve on my skills.🗃
 <details>
 <summary>View Notes</summary>
 
-- [HTML5](notes/frontend/html5/html5.html)
-- [Bootstrap](notes/frontend/bootstrap/bootstrap.html)
+- [Bootstrap](notes/frontend/bootstrap/bootstrap.md)
 - [Angular](notes/frontend/angular/angular.md)
 
 </details>
@@ -50,8 +50,8 @@ I usually make this to improve on my skills.🗃
 <details>
 <summary>View Notes</summary>
 
-- [MySQL](notes/databases/mysql/mysql.md)
 - [Oracle](notes/databases/oracle/oracle.md)
+- [MySQL](notes/databases/mysql/mysql.md)
 - [MongoDB](notes/databases/mongodb/mongodb.md)
  
 </details>
@@ -62,7 +62,7 @@ I usually make this to improve on my skills.🗃
 <details>
 <summary>View Notes</summary>
 
-- [Git](notes/devops-tools/git/git.sh)
+- [Git](notes/devops-tools/git/git.md)
 - [Docker](notes/devops-tools/docker/docker.md)
 - [Maven](notes/devops-tools/maven/maven.md)
 
