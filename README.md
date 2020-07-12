@@ -16,7 +16,7 @@ I usually make this to improve on my skills.🗃
 
 - [Bash](notes/languages/bash/bash.md)
 - [C](notes/languages/c/c.md)
-- [C](notes/languages/c++/c++.md)
+- [C++](notes/languages/c++/c++.md)
 - [Java](notes/languages/java.java)
 - [Python](notes/languages/python/python.md)
 - [JavaScript](notes/languages/javascript/javascript.md)
@@ -70,9 +70,9 @@ I usually make this to improve on my skills.🗃
 
 
 
-## ------------
+## 
 
- Work in Progress 🚧 to compose my written notes for the pending topics.
+ Note: 🚧 Work in Progress 🚧 to compose my written notes for the pending topics.
  Feel free to fork and contribute.
 
 ## Thanks 🙌🏼 
