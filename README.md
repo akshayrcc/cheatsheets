@@ -9,10 +9,8 @@ I usually make this to improve on my skills.🗃
 
 ## 📚 Table of Contents
 
+<!--
 ### 📃 Languages
-
-<details>
-<summary>View Notes</summary>
 
 - [Bash](notes/languages/bash/bash.md)
 - [C](notes/languages/c/c.md)
@@ -20,54 +18,31 @@ I usually make this to improve on my skills.🗃
 - [Java](notes/languages/java.java)
 - [Python](notes/languages/python/python.md)
 - [JavaScript](notes/languages/javascript/javascript.md)
+-->
 
-</details>
+### 🌐 Frontend / UI 
 
-### 🌐 Frontend
-
-<details>
-<summary>View Notes</summary>
-
-- [Bootstrap](notes/frontend/bootstrap/bootstrap.md)
 - [Angular](notes/frontend/angular/angular.md)
-
-</details>
-
+- [Bootstrap](notes/frontend/bootstrap/bootstrap.md)
 
 ### 📦 Backend
-
-<details>
-<summary>View Notes</summary>
 
 - [SpringBoot](notes/backend/SpringBoot/SpringBoot.md)
 - [Hibernate](notes/backend/hibernate/hibernate.md)
 
-</details>
-
 
 ### 🗃️ Databases
-
-<details>
-<summary>View Notes</summary>
 
 - [Oracle](notes/databases/oracle/oracle.md)
 - [MySQL](notes/databases/mysql/mysql.md)
 - [MongoDB](notes/databases/mongodb/mongodb.md)
  
-</details>
- 
 
 ### 🛠 Devops & Tools
-
-<details>
-<summary>View Notes</summary>
 
 - [Git](notes/devops-tools/git/git.md)
 - [Docker](notes/devops-tools/docker/docker.md)
 - [Maven](notes/devops-tools/maven/maven.md)
-
-</details>
-
 
 
 ## 

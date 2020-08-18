@@ -1,15 +1,15 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/akshaychaudhari/cheatsheets-notes/blob/master/LICENSE)
 
 <p align="center">
-  <img width="500" height="500" src="img/git.png">
+  <img width="400" height="120" src="img/git.png">
 </p>
 
 ## Version Control System - GIT
 <p align="center">
-  <img width="500" height="500" src="img/git_branches.jpg">
+  <img width="600" height="400" src="img/git_branches.jpg">
 </p>
 
-* Basic entities in git.
+## Basic entities in git:
 1. type blob = array<byte>
 2. type tree = map<String,tree/blob>
 3. type commit = struct{
@@ -19,6 +19,7 @@
 				snapshot: tree
 				}
 4. type object = blob | tree | commit
+
 		```
 		objects = map<String,object>
 
