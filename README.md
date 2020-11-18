@@ -12,37 +12,37 @@ I usually make this to improve on my skills.🗃
 <!--
 ### 📃 Languages
 
-- [Bash](notes/languages/bash/bash.md)
-- [C](notes/languages/c/c.md)
-- [C++](notes/languages/c++/c++.md)
-- [Java](notes/languages/java.java)
-- [Python](notes/languages/python/python.md)
-- [JavaScript](notes/languages/javascript/javascript.md)
+- [Bash](notes/languages/bash.md)
+- [C](notes/languages/c.md)
+- [C++](notes/languages/c++.md)
+- [Java](notes/languages/java.md)
+- [Python](notes/languages/python.md)
+- [JavaScript](notes/languages/javascript.md)
 -->
 
 ### 🌐 Frontend / UI 
 
-- [Angular](notes/frontend/angular/angular.md)
-- [Bootstrap](notes/frontend/bootstrap/bootstrap.md)
+- [Angular](notes/frontend/angular.md)
+- [Bootstrap](notes/frontend/bootstrap.md)
 
 ### 📦 Backend
 
-- [SpringBoot](notes/backend/SpringBoot/SpringBoot.md)
-- [Hibernate](notes/backend/hibernate/hibernate.md)
+- [SpringBoot](notes/backend/SpringBoot.md)
+- [Hibernate](notes/backend/hibernate.md)
 
 
 ### 🗃️ Databases
 
-- [Oracle](notes/databases/oracle/oracle.md)
-- [MySQL](notes/databases/mysql/mysql.md)
-- [MongoDB](notes/databases/mongodb/mongodb.md)
+- [Oracle](notes/databases/oracle.md)
+- [MySQL](notes/databases/mysql.md)
+- [MongoDB](notes/databases/mongodb.md)
  
 
 ### 🛠 Devops & Tools
 
-- [Git](notes/devops-tools/git/git.md)
-- [Docker](notes/devops-tools/docker/docker.md)
-- [Maven](notes/devops-tools/maven/maven.md)
+- [Git](notes/devops-tools/git.md)
+- [Docker](notes/devops-tools/docker.md)
+- [Maven](notes/devops-tools/maven.md)
 
 
 ## Open for Contribution 
