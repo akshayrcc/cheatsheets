@@ -48,15 +48,15 @@
  
  1. * Unique Index: Data integrity and constant check.
  
-  * Non-Unique Index: Speed up more.
+	* Non-Unique Index: Speed up more.
  
  2. * Clustered Index: Change the way data is stored in the DB as per the index.
 	* On a table, only one CI can be there.
 	* It changes the order of the rows.
 	* faster performance.
  
- * Non Clustered Index:  Maintain separate DS to optimize the query.
- * Can be many non-CI.	
+	* Non Clustered Index:  Maintain separate DS to optimize the query.
+	* Can be many non-CI.	
  
  
 ## Views:

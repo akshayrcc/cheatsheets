@@ -85,6 +85,15 @@
 	git branch -vv
 	```	
 
+* To see available branches local.
+	```
+	git branch 
+	```
+* To see available branches remote.
+	```
+	git branch -r
+	```
+
 * To merge the brn01 with  header branch.
 	```
 	git merge brn01

@@ -47,6 +47,11 @@ eg.
 
 - In file angular.json   under styles .. you can use bootstrap
 
-
-
+## Updating to latest dependencies
+```sh
+npm install -g npm-check-updates
+ncu -u
+npm update
+npm install
+```
 

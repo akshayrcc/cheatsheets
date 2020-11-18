@@ -82,6 +82,16 @@ spring.autoconfigure.exclude
 
 * @SpringBootApplication = Used in main class  (@Configuration + @CompenentScan + @EnableAutoConfiguration)
 
+@SpringBootApplication is a convenience annotation that adds all of the following:
+
+@Configuration: Tags the class as a source of bean definitions for the application context.
+
+@EnableAutoConfiguration: Tells Spring Boot to start adding beans based on classpath settings, other beans, and various property settings. 
+For example, if spring-web MVC is on the classpath, this annotation flags the application as a web application and activates key behaviors,such as setting up a DispatcherServlet.
+
+@ComponentScan: Tells Spring to look for other components, configurations, and services in the com/example package, letting it find the controllers.
+
+
 * @EnableAutoConfiguration = @Configuration + @CompenentScan
 
 * Using Spring boot maven plugin we can make a jar/war file for our spring project.
@@ -89,3 +99,5 @@ spring.autoconfigure.exclude
 
 ## Spring Data REST
 * used to expose the RESTful resources around the Spring Data Repositories.
+
+
