@@ -45,10 +45,9 @@ I usually make this to improve on my skills.🗃
 - [Maven](notes/devops-tools/maven/maven.md)
 
 
-## 
+## Open for Contribution 
 
- Note: 🚧 Work in Progress 🚧 to compose my written notes for the pending topics.
- Feel free to fork and contribute.
+ Note: 🚧 Work in Progress 🚧 to compose my written notes for the pending topics. Feel free to fork and contribute.
 
 ## Thanks 🙌🏼 
 
