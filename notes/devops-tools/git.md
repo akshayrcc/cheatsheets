@@ -113,6 +113,9 @@
 	```
 	git remote
 	git remote add <name> <url>
+	
+	git remote set-url <remote_name> <remote_url>
+	eg: git remote set-url origin https://git-repo/new-repository.git
 	```
 
 * Uploading to remote
@@ -168,9 +171,16 @@
 	git difftool
 	```
 
-
 * To beat the mismatch histories conflict while pulling/merging:
 	```
 	git pull origin master --allow-unrelated-histories
 	```
+
+* To work with git tags
+	```
+	git tag
+	git tag -D sample_tag
+	```
 * Github is a host for git repositories.
+* Sourcetree is one of the best git merging tool.
+
