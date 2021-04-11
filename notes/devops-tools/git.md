@@ -124,7 +124,7 @@
 	git push -u origin master
 	```
 
-* Setting up the upload (remote) branch
+* Setting up the upload (remote) branch (deprecated in recent git version)
 	```
 	git branch --set-upstream-to=origin/<branch> master
 	```

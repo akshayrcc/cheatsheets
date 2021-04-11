@@ -30,7 +30,7 @@ docker hello-world
 
 * To run linux container and run bash in it:
 `docker run -it ubuntu:latest  bash`
- (it stands for  interacive terminal)
+ (it stands for  interactive terminal)
  
 ## Containers
 
@@ -247,11 +247,15 @@ Read More at: https://docs.docker.com/compose/compose-file/
 
 ## Running a My-SQL Container:
 ```sh
-docker run --name akshay-mysql -e MYSQL_ROOT_PASSWORD=root123 -d mysql:tag
+docker run --name akshay-mysql2 -e MYSQL_ROOT_PASSWORD=root123 -d mysql -p 3306:3306
+
+docker run --name akshay-mysql3 -e MYSQL_ROOT_PASSWORD=root123 -d mysql -h localhost -P 3306 --protocol=tcp
 
 docker run -it --network first-network --rm mysql mysql -h akshay-mysql -u first-user -p
 
 docker run -it --rm mysql mysql -hsome.mysql.host -usome-mysql-user -p
+
+mysql -h localhost -P 3306 --protocol=tcp -u root
 ```
 
 ## Running an angular app from a dockerfile:
